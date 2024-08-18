@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @alexius-develop
+- 👋 Hi, I’m @alex
 - 👀 I’m interested in becoming a software developer
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on coding projects using Javascript
